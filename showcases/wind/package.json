@@ -28,8 +28,8 @@
     "brfs-babel": "^1.0.0",
     "buble-loader": "^0.4.0",
     "transform-loader": "^0.2.3",
-    "webpack": "^2.6.1",
-    "webpack-dev-server": "^3.1.11"
+    "webpack": "^5.106.2",
+    "webpack-dev-server": "^5.2.4"
   },
   "babel": {
     "presets": [
